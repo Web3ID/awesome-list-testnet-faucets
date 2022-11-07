@@ -6,12 +6,12 @@ Curated list of Testnet faucets for Ropsten, Goerli, Kovan, Polygon/Mumbai, Fant
 
 ## Networks
 
-- [Etherspot](#etherspot)
-- [MultiFaucet](#multifaucet)
-- [Ethereum](#ethereum)
-- [BSC](#bsc)
-- [Polygon](#polygon)
-- [xDai](#xdai-gnosis)
+- [Etherspot](##etherspot)
+- [MultiFaucet](##multifaucet)
+- [Ethereum](##ethereum)
+- [BSC](##bsc)
+- [Polygon](##polygon)
+- [xDai](##xdai-gnosis)
 - [Fantom](#fantom)
 - [Aurora](#aurora)
 - [Cronos](#cronos)
@@ -284,3 +284,30 @@ https://volta-faucet.energyweb.org/
 ## StarkNet
 https://faucet.goerli.starknet.io
 
+
+# Follow Us on Social Media
+
+## Social Media
+[web3idn.crypto@mail3.me](mailto:web3idn.crypto@mail3.me)
+
+[Website](https://web30.my.id/)
+
+[Blog](https://dapps.my.id)
+
+[Medium](https://medium.com/@web3id)
+
+[Github](https://github.com/Web3ID)
+
+[Facebook](https://web.facebook.com/web3id)
+
+[Group Facebook](https://web.facebook.com/groups/web3id/)
+
+[Twitter](https://twitter.com/Web3IDN)
+
+[Instagram](https://www.instagram.com/web3id/)
+
+[Channel Telegram](https://t.me/BitsanSecID)
+
+[Group Telegram](https://t.me/web3_idn_group)
+
+[Quora](https://web3id.quora.com/)
