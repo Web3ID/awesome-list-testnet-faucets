@@ -28,6 +28,7 @@ Curated list of Testnet faucets for Ropsten, Goerli, Kovan, Polygon/Mumbai, Fant
 - [Avalanche](#avalanche)
 - [Energy Web](#energy-web)
 - [StarkNet](#StarkNet)
+- [Bitcoin](##Bitcoin)
 
 ## Etherspot
 
@@ -283,6 +284,13 @@ https://volta-faucet.energyweb.org/
 
 ## StarkNet
 https://faucet.goerli.starknet.io
+
+## Bitcoin
+https://coinfaucet.eu/en/btc-testnet/
+
+https://testnet-faucet.com/btc-testnet/
+
+https://bitcoinfaucet.uo1.net/
 
 
 # Follow Us on Social Media
