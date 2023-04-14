@@ -12,23 +12,24 @@ Curated list of Testnet faucets for Ropsten, Goerli, Kovan, Polygon/Mumbai, Fant
 - [BSC](##bsc)
 - [Polygon](##polygon)
 - [xDai](##xdai-gnosis)
-- [Fantom](#fantom)
-- [Aurora](#aurora)
-- [Cronos](#cronos)
-- [Solana](#solana)
-- [Tezos](#tezos)
-- [Ripple](#ripple)
-- [Algo](#algo)
-- [Cardano](#cardano)
-- [Near](#near)
-- [Arbitrum](#arbitrum)
-- [Harmony](#harmony)
-- [Fuse](#fuse)
-- [Moonbeam](#moonbeam)
-- [Avalanche](#avalanche)
-- [Energy Web](#energy-web)
-- [StarkNet](#StarkNet)
+- [Fantom](##fantom)
+- [Aurora](##aurora)
+- [Cronos](##cronos)
+- [Solana](##solana)
+- [Tezos](##tezos)
+- [Ripple](##ripple)
+- [Algo](##algo)
+- [Cardano](##cardano)
+- [Near](##near)
+- [Arbitrum](##arbitrum)
+- [Harmony](##harmony)
+- [Fuse](##fuse)
+- [Moonbeam](##moonbeam)
+- [Avalanche](##avalanche)
+- [Energy Web](##energy-web)
+- [StarkNet](##StarkNet)
 - [Bitcoin](##Bitcoin)
+- [edeXa](##edeXa)
 
 ## Etherspot
 
@@ -291,6 +292,16 @@ https://coinfaucet.eu/en/btc-testnet/
 https://testnet-faucet.com/btc-testnet/
 
 https://bitcoinfaucet.uo1.net/
+
+## edeXa
+https://faucet.edexa.com/
+
+
+
+
+
+
+
 
 
 # Follow Us on Social Media
