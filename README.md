@@ -1,6 +1,9 @@
 # awesome-list-testnet-faucets
 <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Web3ID/awesome-list-testnet-faucets" /> <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/Web3ID/awesome-list-testnet-faucets" />
 
+
+fork from [@arddluma](https://github.com/arddluma/awesome-list-testnet-faucets/pull/82#issuecomment-1295746505)
+
 Curated list of Testnet faucets for Ropsten, Goerli, Kovan, Polygon/Mumbai, FantomTest, Sokol, Aurora etc | EVM and Other Blockchain
 
 
