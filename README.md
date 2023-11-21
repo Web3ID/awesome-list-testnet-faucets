@@ -58,8 +58,6 @@ https://faucet.ropsten.be/
 
 https://app.mycrypto.com/faucet
 
-https://faucet.dimensions.network/
-
 https://testnet.help/en/ethfaucet/ropsten
 
 https://faucet.egorfine.com/
@@ -169,8 +167,6 @@ https://faucet.dsolutions.mn/
 
 https://faucet.poa.network/
 
-https://faucets.chain.link/sokol
-
 ## Fantom
 
 ### FantomTestnet
@@ -201,12 +197,6 @@ https://faucet.quicknode.com/solana/testnet
 https://faucet.quicknode.com/solana/devnet
 
 https://solfaucet.com/
-
-## Tezos
-
-### Tezos DevNet/Testnet
-
-https://teztnets.xyz/ithacanet-faucet
 
 ## Ripple
 
