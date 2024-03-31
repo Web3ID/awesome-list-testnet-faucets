@@ -289,9 +289,8 @@ https://bitcoinfaucet.uo1.net/
 ## edeXa
 https://faucet.edexa.com/
 
-
-
-
+## tezos
+https://faucet.ghostnet.teztnets.com/
 
 
 
