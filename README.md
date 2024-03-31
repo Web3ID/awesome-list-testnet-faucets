@@ -291,6 +291,9 @@ https://faucet.edexa.com/
 
 ## tezos
 https://faucet.ghostnet.teztnets.com/
+https://faucet.oxfordnet.teztnets.com/
+https://faucet.predalnet.teztnets.com/
+[Fresh development](https://faucet.weeklynet-2024-03-27.teztnets.com)
 
 
 
