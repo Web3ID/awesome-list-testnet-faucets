@@ -129,6 +129,9 @@ https://fauceth.komputing.org/
 
 https://sepoliafaucet.net/
 
+### Holesky
+https://bwarelabs.com/faucets/ethereum-holesky
+
 ### ETH 2.0
 
 #### Kiln Testnet (beta)
