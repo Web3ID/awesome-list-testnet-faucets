@@ -36,6 +36,7 @@ Curated list of Testnet faucets for Ropsten, Goerli, Kovan, Polygon/Mumbai, Fant
 - [Zksync](#zksync)
 - [Shardeum](#shardeum)
 - [Blast](#blast)
+- [BeraChain](#berachain)
 
 ## Etherspot
 
@@ -307,6 +308,10 @@ https://faucet.liberty10.shardeum.org/
 ## Blast
 https://faucet.quicknode.com/blast/sepolia
 https://owlto.finance/ {Bridge from sepolia}
+
+## BeraChain
+https://artio.faucet.berachain.com/
+
 
 
 
