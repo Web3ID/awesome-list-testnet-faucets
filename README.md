@@ -34,7 +34,7 @@ Curated list of Testnet faucets for Ropsten, Goerli, Kovan, Polygon/Mumbai, Fant
 - [Bitcoin](#bitcoin)
 - [edeXa](#edexa)
 - [Zksync](#zksync)
-- [Solana](#solana)
+- [Shardeum](#shardeum)
 
 ## Etherspot
 
@@ -300,8 +300,8 @@ https://faucet.predalnet.teztnets.com/
 ## Zksync
 https://portal.zksync.io/
 
-## Solana
-https://solfaucet.com/
+## Shardeum
+https://faucet.liberty10.shardeum.org/
 
 
 
