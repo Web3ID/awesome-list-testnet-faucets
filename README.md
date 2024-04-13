@@ -33,6 +33,8 @@ Curated list of Testnet faucets for Ropsten, Goerli, Kovan, Polygon/Mumbai, Fant
 - [StarkNet](#starknet)
 - [Bitcoin](#bitcoin)
 - [edeXa](#edexa)
+- [Zksync](#zksync)
+- [Solana](#solana)
 
 ## Etherspot
 
@@ -295,7 +297,11 @@ https://faucet.oxfordnet.teztnets.com/
 https://faucet.predalnet.teztnets.com/
 [Fresh development](https://faucet.weeklynet-2024-03-27.teztnets.com)
 
+## Zksync
+https://portal.zksync.io/
 
+## Solana
+https://solfaucet.com/
 
 
 
