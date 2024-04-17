@@ -168,6 +168,9 @@ https://faucets.chain.link/mumbai
 
 https://faucet.dsolutions.mn/
 
+### Polygon Amoy
+https://faucet.true-wallet.io/
+
 ## xDai Gnosis
 
 ### Sokol
