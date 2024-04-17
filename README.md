@@ -171,6 +171,9 @@ https://faucet.dsolutions.mn/
 ### Polygon Amoy
 https://faucet.true-wallet.io/
 
+https://faucet.polygon.technology/
+
+
 ## xDai Gnosis
 
 ### Sokol
