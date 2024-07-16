@@ -129,6 +129,8 @@ https://fauceth.komputing.org/
 
 https://sepoliafaucet.net/
 
+https://cloud.google.com/application/web3/faucet/ethereum/sepolia
+
 ### Holesky
 https://bwarelabs.com/faucets/ethereum-holesky
 
