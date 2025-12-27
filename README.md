@@ -37,6 +37,7 @@ Curated list of Testnet faucets for Ropsten, Goerli, Kovan, Polygon/Mumbai, Fant
 - [Shardeum](#shardeum)
 - [Blast](#blast)
 - [BeraChain](#berachain)
+- [Plasma](#plasma)
 
 ## Etherspot
 
@@ -323,6 +324,8 @@ https://owlto.finance/ {Bridge from sepolia}
 ## BeraChain
 https://artio.faucet.berachain.com/
 
+## Plasma
+https://www.gas.zip/faucet/plasma
 
 
 
